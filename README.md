@@ -254,11 +254,3 @@ Possible extensions for this project:
 ## Author
 
 **Rajgowtham M**
-
-If you want, I can also turn this into a **more polished GitHub-style README** with:
-- badges
-- a KPI summary table at the top
-- a cleaner “Insights” section
-- a “Sample SQL Queries” section
-- a “Resume Project Description” section
-
